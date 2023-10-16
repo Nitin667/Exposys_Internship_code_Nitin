@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/Nitin667/Exposys_Internship_code_Nitin/assets/74631112/147fc828-8420-441d-8d97-b96526df1b3a)
+
 
 # Getting Started with Create React App
 
